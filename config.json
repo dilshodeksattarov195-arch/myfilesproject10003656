@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentralidate",
+        "uuid": 31010192,
+        "checksum": "y92p6ph"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
